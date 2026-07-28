@@ -1,0 +1,734 @@
+LWSC
+1
+
+FirstFrame 0
+LastFrame 50
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 50
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject E:\Perso\Praha\sols.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 5
+
+LoadObject E:\Perso\Praha\grandearche&voute.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\corridor.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.3375 0 0.115 -45.7 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+PivotPoint -0.3375 0 0.115
+ParentObject 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\arche ombre.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\pilliers+miniportique.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\mur petite arche.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.009447835 0 -0.9032782 7.799997 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 1587
+PivotPoint 0 0 -0.9744054
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\borne.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -0.2 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\corridor.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.02458927 0 2.14788 22.40001 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+PivotPoint -0.3375 0 0.115
+ParentObject 3
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\blasons.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\lampadaire.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.2543491 0.6374999 -1.01526 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 6
+ShadowOptions 4
+
+LoadObject E:\Perso\Praha\verre lumière.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.001 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 10
+ShadowOptions 0
+
+LoadObject E:\Perso\Praha\grosse_plaque.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 -0.1 -0.1 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+UnaffectedByFog 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\borne.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 1539
+PivotPoint 0 0 -0.27
+ParentObject 7
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\ombre corridor.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 3
+UnseenByCamera 1
+ShadowOptions 2
+
+LoadObject E:\Perso\Praha\ombre corridor.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+UnseenByCamera 1
+ShadowOptions 2
+
+AddNullObject Target Lumière
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.3999999 0 -0.3099999 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Rampe Lumière
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.312078 3.125001 -1.131737 0 90 0 1 3.198 2.218001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 365
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\pied lampadaire.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 10
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\eglisemaxface.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.145545 0 -0.1587826 -90.29999 0 0 7.411999 7.411999 7.411999
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 51
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName LiCorridor ght
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -0.6050662 0.6449999 0.6146837 -65.3 -92.4 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 128
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 0.600000
+ConeAngle 72.110016
+EdgeAngle 5.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0.1 0.09999998 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 -0.0425 -0.1 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0.2 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 -0.2 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0.13 0 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName B OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2325 -0.11 -0.05 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName B OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2325 0 0.05 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName B OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2325 0.08 -0.15 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName B OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2325 -0.055 0.15 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 30.000000
+EdgeAngle 25.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName Lampadaire
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0.135 0.1375 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 11
+LightColor 255 250 183
+LgtIntensity 1.500000
+LightType 1
+LightFalloff 1
+LightRange 0.250000
+LensFlare 1
+FlareIntensity 0.500000
+FlareDissolve 0.000000
+LensFlareFade 0
+LensFlareOptions 33
+ShadowType 0
+
+AddLight
+LightName Green Corridor
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.007500007 0.34 -1.309998 0 42.40001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 45
+ParentObject 6
+LightColor 106 166 89
+LgtIntensity 3.000000
+NoSpecular 1
+LightType 2
+LightFalloff 1
+LightRange 0.750000
+ConeAngle 80.000000
+EdgeAngle 40.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName Point Green Corridor
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.007500007 0.0475 -1.309998 0 4.3 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 45
+ParentObject 6
+LightColor 255 243 102
+LgtIntensity 1.000000
+NoSpecular 1
+LightType 1
+LightFalloff 1
+LightRange 0.450000
+ShadowType 0
+
+AddLight
+LightName Ambiant Arches
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.002499981 1.2 -0.48 34.40002 56.50002 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+LightColor 255 243 179
+LgtIntensity 2.000000
+LightType 2
+LightFalloff 1
+LightRange 2.000000
+ConeAngle 70.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 50.000000
+ShadowFuzziness 2.000000
+
+AddLight
+LightName Ambiant Arches Lampe
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2516218 1.2 -0.4675762 180 49.8 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+LightColor 255 243 179
+LgtIntensity 1.500000
+LightType 2
+LightFalloff 1
+LightRange 1.500000
+ConeAngle 50.000000
+EdgeAngle 45.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 7.000000
+ShadowFuzziness 50.000000
+
+AddLight
+LightName Green Corridor Reverb
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -0.2232108 0.2088377 -0.8705231 -32.60002 3.999998 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 6
+LightColor 106 166 89
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 0.750000
+ConeAngle 80.000000
+EdgeAngle 70.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 40.000000
+ShadowFuzziness 5.000000
+
+AddLight
+LightName EgliseLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.672496 0.0775 -0.5327479 -81.8 -20.9 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 45
+LightColor 255 210 128
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 74.290016
+EdgeAngle 5.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName EgliseLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.701809 0.05000008 -0.9980735 -70.59999 -22.1 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 37
+LightColor 255 210 128
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 70.040001
+EdgeAngle 5.000000
+LensFlare 1
+FlareIntensity 0.150000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 545
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName EgliseDark
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.701809 3.155 -0.9980735 -63.39999 12.2 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 37
+LightColor 255 210 128
+LgtIntensity -0.500000
+LightType 2
+ConeAngle 70.040001
+EdgeAngle 5.000000
+ShadowType 0
+
+AddLight
+LightName EgliseDark
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.7594 0.1449996 -0.102493 -87.8 -35.2 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+LightColor 255 210 128
+LgtIntensity -0.500000
+LightType 2
+ConeAngle 83.189987
+EdgeAngle 80.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  3
+  0.7842612 0.3183694 -0.8493814 -76.89999 0 0 1 1 1
+  0 0 0 0 0
+  -0.06797729 0.3183694 -0.8200114 -23.99997 0 0 1 1 1
+  1 0 0 0 0
+  0.7842612 0.3183694 -0.8493814 -76.89999 0 0 1 1 1
+  2 0 0 0 0
+EndBehavior 1
+LockedChannels 50
+ZoomFactor 0.643000
+Resolution 1
+PixelAspectRatio 2
+LimitedRegion 1
+RegionLimits 0.369000 0.775000 0.000000 0.694000
+SegmentMemory 8050000
+Antialiasing 1
+EnhancedAA 1
+AdaptiveSampling 1
+AdaptiveThreshold 32
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 0
+BackdropColor 0 0 0
+ZenithColor 0 65 130
+SkyColor 5 0 0
+GroundColor 0 0 0
+NadirColor 0 0 0
+FogType 2
+FogMinDist 2.500000
+FogMaxDist 4.500000
+FogMinAmount 0.000000
+FogMaxAmount 0.400000
+FogColor 0 43 85
+BackdropFog 0
+DitherIntensity 1
+AnimatedDither 0
+GlowEffect 1
+GlowIntensity 0.500000
+GlowRadius 8.000000
+
+RenderMode 2
+RayTraceEffects 2
+RayRecursionLimit 16
+DataOverlayLabel  
+OutputFilenameFormat 1
+SaveRGBImagesPrefix E:\Perso\Praha\arches.
+RGBImageFormat 2
+
+ViewMode 5
+ViewAimpoint -0.047562 0.340000 -1.236784
+ViewDirection -4.113740 6.044074 0.000000
+ViewZoomFactor 1.777778
+GridNumber 10
+GridSize 0.500000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 1
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

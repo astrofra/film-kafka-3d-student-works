@@ -1,0 +1,1864 @@
+LWSC
+1
+
+FirstFrame 0
+LastFrame 150
+FrameStep 1
+PreviewFirstFrame 1
+PreviewLastFrame 150
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject E:\Perso\Praha\sols.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 5
+
+LoadObject E:\Perso\Praha\grandearche&voute.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\corridor.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.3375 0 0.115 -45.7 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+PivotPoint -0.3375 0 0.115
+ParentObject 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\arche ombre.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\pilliers+miniportique.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\mur petite arche.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.009447835 0 -0.9032782 7.799997 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 1587
+PivotPoint 0 0 -0.9744054
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\borne.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 -0.2 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\corridor.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  -0.02458927 0 2.14788 22.40001 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+PivotPoint -0.3375 0 0.115
+ParentObject 3
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\blasons.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\lampadaire.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.2543491 0.6374999 -1.01526 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 6
+ShadowOptions 4
+
+LoadObject E:\Perso\Praha\verre lumière.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.001 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 10
+ShadowOptions 0
+
+LoadObject E:\Perso\Praha\grosse_plaque.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 -0.1 -0.1 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+UnaffectedByFog 1
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\borne.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 1539
+PivotPoint 0 0 -0.27
+ParentObject 7
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\ombre corridor.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 3
+UnseenByCamera 1
+ShadowOptions 2
+
+LoadObject E:\Perso\Praha\ombre corridor.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 8
+UnseenByCamera 1
+ShadowOptions 2
+
+AddNullObject Target Lumière
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  2
+  -0.3999999 0 -0.3099999 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.3999999 0 -0.3099999 0 0 0 1 1 1
+  125 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+AddNullObject Rampe Lumière
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  -3.312078 3.125001 -1.131737 0 90 0 1 3.198 2.218001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 367
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\pied lampadaire.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 10
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\eglisemaxface.lwo
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  1
+  -2.145545 0 -0.1587826 -90.29999 0 0 7.411999 7.411999 7.411999
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 51
+ShadowOptions 1
+
+AddNullObject Ref Obj
+ShowObject 5 7
+ObjectMotion (unnamed)
+  9
+  2
+  -0.1238752 0.08499999 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.1238752 0.08499999 0 0 0 0 1 1 1
+  67 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ShadowOptions 7
+
+AddNullObject GUYnull
+ShowObject 8 3
+ObjectMotion (unnamed)
+  9
+  150
+  -0.02999997 0.1423606 -1.07966 180.9999 0 0 0.158 0.158 0.158
+  0 0 0 0 0
+  -0.02999997 0.1423606 -1.081535 180 0 0 0.158 0.158 0.158
+  1 0 0 0 0
+  -0.02999997 0.1423606 -1.07591 180 0 0 0.158 0.158 0.158
+  2 0 0 0 0
+  -0.02999997 0.1423606 -1.070285 180 0 0 0.158 0.158 0.158
+  3 0 0 0 0
+  -0.02999997 0.1448606 -1.05966 180 0 0 0.158 0.158 0.158
+  4 0 0 0 0
+  -0.02999997 0.1473606 -1.054659 180 0 0 0.158 0.158 0.158
+  5 0 0 0 0
+  -0.02999997 0.1473606 -1.044659 180 0 0 0.158 0.158 0.158
+  6 0 0 0 0
+  -0.02999997 0.1473606 -1.037159 180 0 0 0.158 0.158 0.158
+  7 0 0 0 0
+  -0.02999997 0.1473606 -1.032159 180 0 0 0.158 0.158 0.158
+  8 0 0 0 0
+  -0.02999997 0.1473606 -1.024659 180 0 0 0.158 0.158 0.158
+  9 0 0 0 0
+  -0.02999997 0.1473606 -1.017159 180 0 0 0.158 0.158 0.158
+  10 0 0 0 0
+  -0.02999997 0.1473606 -1.009659 180 0 0 0.158 0.158 0.158
+  11 0 0 0 0
+  -0.02999997 0.1473606 -1.002159 180 0 0 0.158 0.158 0.158
+  12 0 0 0 0
+  -0.02999997 0.1448606 -0.9946585 180 0 0 0.158 0.158 0.158
+  13 0 0 0 0
+  -0.02999997 0.1423606 -0.9946585 180 0 0 0.158 0.158 0.158
+  14 0 0 0 0
+  -0.02999997 0.1423606 -0.9896585 180 0 0 0.158 0.158 0.158
+  15 0 0 0 0
+  -0.02999997 0.1423606 -0.9846585 180 0 0 0.158 0.158 0.158
+  16 0 0 0 0
+  -0.02999997 0.1423606 -0.9796585 180 0 0 0.158 0.158 0.158
+  17 0 0 0 0
+  -0.02999997 0.1423606 -0.9721586 180 0 0 0.158 0.158 0.158
+  18 0 0 0 0
+  -0.02999997 0.1423606 -0.9571586 180 0 0 0.158 0.158 0.158
+  19 0 0 0 0
+  -0.02999997 0.1423606 -0.9446586 180 0 0 0.158 0.158 0.158
+  20 0 0 0 0
+  -0.02999997 0.1423606 -0.9346586 180 0 0 0.158 0.158 0.158
+  21 0 0 0 0
+  -0.02999997 0.1423606 -0.9271586 180 0 0 0.158 0.158 0.158
+  22 0 0 0 0
+  -0.02999997 0.1423606 -0.9196586 180 0 0 0.158 0.158 0.158
+  23 0 0 0 0
+  -0.02999997 0.1423606 -0.9121586 180 0 0 0.158 0.158 0.158
+  24 0 0 0 0
+  -0.02999997 0.1423606 -0.9071586 180 0 0 0.158 0.158 0.158
+  25 0 0 0 0
+  -0.02999997 0.1423606 -0.8996586 180 0 0 0.158 0.158 0.158
+  26 0 0 0 0
+  -0.02999997 0.1423606 -0.8921586 180 0 0 0.158 0.158 0.158
+  27 0 0 0 0
+  -0.02999997 0.1423606 -0.8871586 180 0 0 0.158 0.158 0.158
+  28 0 0 0 0
+  -0.02999997 0.1423606 -0.8796586 180 0 0 0.158 0.158 0.158
+  29 0 0 0 0
+  -0.02999997 0.1423606 -0.8746586 180 0 0 0.158 0.158 0.158
+  30 0 0 0 0
+  -0.02999997 0.1423606 -0.8671587 180 0 0 0.158 0.158 0.158
+  31 0 0 0 0
+  -0.02999997 0.1423606 -0.8596587 180 0 0 0.158 0.158 0.158
+  32 0 0 0 0
+  -0.02999997 0.1423606 -0.8546587 180 0 0 0.158 0.158 0.158
+  33 0 0 0 0
+  -0.02999997 0.1423606 -0.8471587 180 0 0 0.158 0.158 0.158
+  34 0 0 0 0
+  -0.02999997 0.1423606 -0.8371587 180 0 0 0.158 0.158 0.158
+  35 0 0 0 0
+  -0.02999997 0.1423606 -0.8246587 180 0 0 0.158 0.158 0.158
+  36 0 0 0 0
+  -0.02999997 0.1423606 -0.8146587 180 0 0 0.158 0.158 0.158
+  37 0 0 0 0
+  -0.02999997 0.1423606 -0.8071587 180 0 0 0.158 0.158 0.158
+  38 0 0 0 0
+  -0.02999997 0.1423606 -0.7996587 180 0 0 0.158 0.158 0.158
+  39 0 0 0 0
+  -0.02999997 0.1423606 -0.7921587 180 0 0 0.158 0.158 0.158
+  40 0 0 0 0
+  -0.02999997 0.1423606 -0.7846587 180 0 0 0.158 0.158 0.158
+  41 0 0 0 0
+  -0.02999997 0.1423606 -0.7771587 180 0 0 0.158 0.158 0.158
+  42 0 0 0 0
+  -0.02999997 0.1423606 -0.7696587 180 0 0 0.158 0.158 0.158
+  43 0 0 0 0
+  -0.02999997 0.1423606 -0.7646587 180 0 0 0.158 0.158 0.158
+  44 0 0 0 0
+  -0.02999997 0.1423606 -0.7596588 180 0 0 0.158 0.158 0.158
+  45 0 0 0 0
+  -0.02999997 0.1423606 -0.7546588 180 0 0 0.158 0.158 0.158
+  46 0 0 0 0
+  -0.02999997 0.1423606 -0.7496588 180 0 0 0.158 0.158 0.158
+  47 0 0 0 0
+  -0.02999997 0.1423606 -0.7446588 180 0 0 0.158 0.158 0.158
+  48 0 0 0 0
+  -0.02999997 0.1423606 -0.7371588 180 0 0 0.158 0.158 0.158
+  50 0 0 0 0
+  -0.02999997 0.1423606 -0.7271588 180 0 0 0.158 0.158 0.158
+  51 0 0 0 0
+  -0.02999997 0.1423606 -0.7121588 180 0 0 0.158 0.158 0.158
+  52 0 0 0 0
+  -0.02999997 0.1423606 -0.6996588 180 0 0 0.158 0.158 0.158
+  53 0 0 0 0
+  -0.02999997 0.1423606 -0.6921588 180 0 0 0.158 0.158 0.158
+  54 0 0 0 0
+  -0.02999997 0.1423606 -0.6821588 180 0 0 0.158 0.158 0.158
+  55 0 0 0 0
+  -0.02999997 0.1423606 -0.6746588 180 0 0 0.158 0.158 0.158
+  56 0 0 0 0
+  -0.02999997 0.1423606 -0.6696588 180 0 0 0.158 0.158 0.158
+  57 0 0 0 0
+  -0.02999997 0.1423606 -0.6621588 180 0 0 0.158 0.158 0.158
+  58 0 0 0 0
+  -0.02999997 0.1423606 -0.6546589 180 0 0 0.158 0.158 0.158
+  59 0 0 0 0
+  -0.02999997 0.1423606 -0.6471589 180 0 0 0.158 0.158 0.158
+  60 0 0 0 0
+  -0.02999997 0.1423606 -0.6396589 180 0 0 0.158 0.158 0.158
+  61 0 0 0 0
+  -0.02999997 0.1423606 -0.6346589 180 0 0 0.158 0.158 0.158
+  62 0 0 0 0
+  -0.02999997 0.1423606 -0.6296589 180 0 0 0.158 0.158 0.158
+  63 0 0 0 0
+  -0.02999997 0.1423606 -0.6221589 180 0 0 0.158 0.158 0.158
+  64 0 0 0 0
+  -0.02999997 0.1423606 -0.6146589 180 0 0 0.158 0.158 0.158
+  65 0 0 0 0
+  -0.02999997 0.1423606 -0.6021589 180 0 0 0.158 0.158 0.158
+  66 0 0 0 0
+  -0.02999997 0.1423606 -0.5921589 180 0 0 0.158 0.158 0.158
+  67 0 0 0 0
+  -0.02999997 0.1423606 -0.5821589 180 0 0 0.158 0.158 0.158
+  68 0 0 0 0
+  -0.02999997 0.1423606 -0.5721589 180 0 0 0.158 0.158 0.158
+  69 0 0 0 0
+  -0.02999997 0.1423606 -0.5621589 180 0 0 0.158 0.158 0.158
+  70 0 0 0 0
+  -0.02999997 0.1423606 -0.552159 180 0 0 0.158 0.158 0.158
+  71 0 0 0 0
+  -0.02999997 0.1423606 -0.537159 180 0 0 0.158 0.158 0.158
+  72 0 0 0 0
+  -0.02999997 0.1423606 -0.524659 180 0 0 0.158 0.158 0.158
+  73 0 0 0 0
+  -0.02999997 0.1423606 -0.512159 180 0 0 0.158 0.158 0.158
+  74 0 0 0 0
+  -0.02999997 0.1423606 -0.522159 180 0 0 0.158 0.158 0.158
+  75 0 0 0 0
+  -0.02999997 0.1423606 -0.517159 180 0 0 0.158 0.158 0.158
+  76 0 0 0 0
+  -0.02999997 0.1373606 -0.512159 180 0 0 0.158 0.158 0.158
+  77 0 0 0 0
+  -0.02999997 0.1373606 -0.509659 180 0 0 0.158 0.158 0.158
+  78 0 0 0 0
+  -0.02999997 0.1373606 -0.507159 180 0 0 0.158 0.158 0.158
+  79 0 0 0 0
+  -0.02999997 0.1348606 -0.502159 180 0 0 0.158 0.158 0.158
+  80 0 0 0 0
+  -0.02999997 0.1248606 -0.497159 180 0 0 0.158 0.158 0.158
+  81 0 0 0 0
+  -0.02999997 0.1098606 -0.487159 180 0 0 0.158 0.158 0.158
+  82 0 0 0 0
+  -0.02999997 0.1073606 -0.474659 180 0 0 0.158 0.158 0.158
+  83 0 0 0 0
+  -0.02999997 0.1098606 -0.459659 180 0 0 0.158 0.158 0.158
+  84 0 0 0 0
+  -0.02999997 0.1098606 -0.452159 180 0 0 0.158 0.158 0.158
+  85 0 0 0 0
+  -0.02999997 0.1098606 -0.4446591 180 0 0 0.158 0.158 0.158
+  86 0 0 0 0
+  -0.02999997 0.1073606 -0.4396591 180 0 0 0.158 0.158 0.158
+  87 0 0 0 0
+  -0.02999997 0.1098606 -0.4321591 180 0 0 0.158 0.158 0.158
+  88 0 0 0 0
+  -0.02999997 0.1098606 -0.4246591 180 0 0 0.158 0.158 0.158
+  89 0 0 0 0
+  -0.02999997 0.1123606 -0.4171591 180 0 0 0.158 0.158 0.158
+  90 0 0 0 0
+  -0.02999997 0.1123606 -0.4121591 180 0 0 0.158 0.158 0.158
+  91 0 0 0 0
+  -0.02999997 0.1098606 -0.4046591 180 0 0 0.158 0.158 0.158
+  92 0 0 0 0
+  -0.02999997 0.1098606 -0.3971591 180 0 0 0.158 0.158 0.158
+  93 0 0 0 0
+  -0.02999997 0.1098606 -0.3896591 180 0 0 0.158 0.158 0.158
+  94 0 0 0 0
+  -0.02999997 0.1073606 -0.3821591 180 0 0 0.158 0.158 0.158
+  95 0 0 0 0
+  -0.02999997 0.1073606 -0.3746591 180 0 0 0.158 0.158 0.158
+  96 0 0 0 0
+  -0.02999997 0.1073606 -0.3621591 180 0 0 0.158 0.158 0.158
+  97 0 0 0 0
+  -0.02999997 0.1098606 -0.3471591 180 0 0 0.158 0.158 0.158
+  98 0 0 0 0
+  -0.02999997 0.1073606 -0.3296592 180 0 0 0.158 0.158 0.158
+  99 0 0 0 0
+  -0.02999997 0.1298606 -0.3171592 180 0 0 0.158 0.158 0.158
+  100 0 0 0 0
+  -0.02999997 0.1448606 -0.3071592 180 0 0 0.158 0.158 0.158
+  101 0 0 0 0
+  -0.02999997 0.1448606 -0.2996592 180 0 0 0.158 0.158 0.158
+  102 0 0 0 0
+  -0.02999997 0.1473606 -0.2896592 180 0 0 0.158 0.158 0.158
+  103 0 0 0 0
+  -0.02999997 0.1448606 -0.2821592 180 0 0 0.158 0.158 0.158
+  104 0 0 0 0
+  -0.02999997 0.1473606 -0.2746592 180 0 0 0.158 0.158 0.158
+  105 0 0 0 0
+  -0.02999997 0.1473606 -0.2696592 180 0 0 0.158 0.158 0.158
+  106 0 0 0 0
+  -0.02999997 0.1473606 -0.2621592 180 0 0 0.158 0.158 0.158
+  107 0 0 0 0
+  -0.02999997 0.1448606 -0.2546592 180 0 0 0.158 0.158 0.158
+  108 0 0 0 0
+  -0.02999997 0.1423606 -0.2521592 180 0 0 0.158 0.158 0.158
+  109 0 0 0 0
+  -0.02999997 0.1423606 -0.2446592 180 0 0 0.158 0.158 0.158
+  110 0 0 0 0
+  -0.02999997 0.1423606 -0.2421592 180 0 0 0.158 0.158 0.158
+  111 0 0 0 0
+  -0.02999997 0.1423606 -0.2371593 180 0 0 0.158 0.158 0.158
+  112 0 0 0 0
+  -0.02999997 0.1423606 -0.2296593 180 0 0 0.158 0.158 0.158
+  113 0 0 0 0
+  -0.02999997 0.1423606 -0.2171593 180 0 0 0.158 0.158 0.158
+  114 0 0 0 0
+  -0.02999997 0.1423606 -0.2021593 180 0 0 0.158 0.158 0.158
+  115 0 0 0 0
+  -0.02999997 0.1423606 -0.1846593 180 0 0 0.158 0.158 0.158
+  116 0 0 0 0
+  -0.02999997 0.1423606 -0.1746593 180 0 0 0.158 0.158 0.158
+  117 0 0 0 0
+  -0.02999997 0.1423606 -0.1646593 180 0 0 0.158 0.158 0.158
+  118 0 0 0 0
+  -0.02999997 0.1423606 -0.1521593 180 0 0 0.158 0.158 0.158
+  119 0 0 0 0
+  -0.02999997 0.1423606 -0.1396593 180 0 0 0.158 0.158 0.158
+  120 0 0 0 0
+  -0.02999997 0.1423606 -0.1321594 180 0 0 0.158 0.158 0.158
+  121 0 0 0 0
+  -0.02999997 0.1423606 -0.1221594 180 0 0 0.158 0.158 0.158
+  122 0 0 0 0
+  -0.02999997 0.1423606 -0.1121594 180 0 0 0.158 0.158 0.158
+  123 0 0 0 0
+  -0.02999997 0.1423606 -0.1021594 180 0 0 0.158 0.158 0.158
+  124 0 0 0 0
+  -0.02999997 0.1423606 -0.09465937 180 0 0 0.158 0.158 0.158
+  125 0 0 0 0
+  -0.02999997 0.1423606 -0.08715937 180 0 0 0.158 0.158 0.158
+  126 0 0 0 0
+  -0.02999997 0.1423606 -0.07965937 180 0 0 0.158 0.158 0.158
+  127 0 0 0 0
+  -0.02999997 0.1423606 -0.07465936 180 0 0 0.158 0.158 0.158
+  128 0 0 0 0
+  -0.02999997 0.1423606 -0.06965937 180 0 0 0.158 0.158 0.158
+  129 0 0 0 0
+  -0.02999997 0.1423606 -0.05715937 180 0 0 0.158 0.158 0.158
+  130 0 0 0 0
+  -0.02999997 0.1423606 -0.04215936 180 0 0 0.158 0.158 0.158
+  131 0 0 0 0
+  -0.02999997 0.1423606 -0.03465936 180 0 0 0.158 0.158 0.158
+  132 0 0 0 0
+  -0.02999997 0.1423606 -0.02215936 180 0 0 0.158 0.158 0.158
+  133 0 0 0 0
+  -0.02999997 0.1423606 -0.01215937 180 0 0 0.158 0.158 0.158
+  134 0 0 0 0
+  -0.02999997 0.1423606 -0.002159367 180 0 0 0.158 0.158 0.158
+  135 0 0 0 0
+  -0.02999997 0.1423606 0.007840633 180 0 0 0.158 0.158 0.158
+  136 0 0 0 0
+  -0.02999997 0.1423606 0.01784063 180 0 0 0.158 0.158 0.158
+  137 0 0 0 0
+  -0.02999997 0.1423606 0.02284063 180 0 0 0.158 0.158 0.158
+  138 0 0 0 0
+  -0.02999997 0.1423606 0.03034063 180 0 0 0.158 0.158 0.158
+  139 0 0 0 0
+  -0.02999997 0.1423606 0.03534063 180 0 0 0.158 0.158 0.158
+  140 0 0 0 0
+  -0.02999997 0.1423606 0.04034063 180 0 0 0.158 0.158 0.158
+  141 0 0 0 0
+  -0.02999997 0.1423606 0.04784063 180 0 0 0.158 0.158 0.158
+  142 0 0 0 0
+  -0.02999997 0.1423606 0.05284064 180 0 0 0.158 0.158 0.158
+  143 0 0 0 0
+  -0.02999997 0.1423606 0.05534064 180 0 0 0.158 0.158 0.158
+  144 0 0 0 0
+  -0.02999997 0.1423606 0.05784064 180 0 0 0.158 0.158 0.158
+  145 0 0 0 0
+  -0.02999997 0.1423606 0.07034064 180 0 0 0.158 0.158 0.158
+  146 0 0 0 0
+  -0.02999997 0.1423606 0.08784063 180 0 0 0.158 0.158 0.158
+  147 0 0 0 0
+  -0.02999997 0.1423606 0.09784062 180 0 0 0.158 0.158 0.158
+  148 0 0 0 0
+  -0.02999997 0.1423606 0.1103406 180 0 0 0.158 0.158 0.158
+  149 0 0 0 0
+  -0.02999997 0.1423606 0.1203406 180 0 0 0.158 0.158 0.158
+  150 0 0 0 0
+EndBehavior 1
+LockedChannels 3125
+ParentObject 63
+ShadowOptions 7
+
+LoadObject Objects\Gpelvis.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.01 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 13
+ParentObject 21
+ShadowOptions 7
+
+LoadObject Objects\Gabdomen.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  7
+  0 0.14 0 0 -8.999999 4.699999 1 1 1
+  0 0 0 0 0
+  0 0.14 0 0 -8 -0.4000002 1 1 1
+  4 0 0 0 0
+  0 0.14 0 0 -7 -2.5 1 1 1
+  8 0 0 0 0
+  0 0.14 0 0 -8.999999 1.199999 1 1 1
+  16 0 0 0 0
+  0 0.14 0 0 -8 4.599999 1 1 1
+  20 0 0 0 0
+  0 0.14 0 0 -7 6.199996 1 1 1
+  25 0 0 0 0
+  0 0.14 0 0 -8.999999 5.1 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 29
+ParentObject 22
+ShadowOptions 7
+
+LoadObject Objects\Gchest.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  3
+  0 0.29 0 0 0 -4.5 1 1 1
+  0 0 1 0 0
+  0 0.29 0 0 0 7.3 1 1 1
+  16 0 0 0 0
+  0 0.29 0 0 0 -5.100001 1 1 1
+  32 0 1 0 0
+EndBehavior 1
+LockedChannels 29
+ParentObject 23
+ShadowOptions 7
+
+LoadObject Objects\Gneck.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.29 0 0 -2.5 0 0.5999999 1 0.6980001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 141
+ParentObject 24
+ShadowOptions 7
+
+LoadObject Objects\Ghead.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.06 -0.02499999 0 11.4 0 1.314 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 427
+ParentObject 25
+ShadowOptions 7
+
+LoadObject Objects\Glshould.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  1
+  0.177 0.212 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ParentObject 24
+ShadowOptions 7
+
+LoadObject Objects\Glbicep.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  3
+  0.055 0 0 0 -25.99999 -72.39999 0.835 0.95 0.95
+  0 0 0 0 0
+  0.055 0 0 0 -9.699997 -72.39999 0.835 0.95 0.95
+  16 0 0 0 0
+  0.055 0 0 0 -25.99999 -72.39999 0.835 0.95 0.95
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 46
+ParentObject 27
+ShadowOptions 7
+
+LoadObject Objects\Glelbow.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  3
+  0.39 0 0 85.99999 -18.3 -84.89999 1 1 1
+  0 0 0 0 0
+  0.39 0 0 85.99999 -18.3 -84.89999 1 1 1
+  16 0 0 0 0
+  0.39 0 0 85.99999 -18.3 -84.89999 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 46
+ParentObject 28
+ShadowOptions 7
+
+LoadObject Objects\Glfarm.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  4
+  3.72529e-009 0 0 0 0 0 1 1 1
+  0 0 0 0 0
+  3.72529e-009 0 0 0 0 0 1 1 1
+  11 0 0 0 0
+  3.72529e-009 0 0 0 0 -10.5 1 1 1
+  16 0 0 0 0
+  3.72529e-009 0 0 0 0 0 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 3102
+PivotPoint 0.02 0 0
+ParentObject 29
+ShadowOptions 7
+
+LoadObject Objects\Glhand.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  1
+  0.42 -0.01 -0.015 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 11
+ParentObject 30
+ShadowOptions 7
+
+LoadObject Objects\Glthumb.lwo
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  1
+  0.05 0.005 -0.045 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 31
+ShadowOptions 7
+
+LoadObject Objects\Glpink.lwo
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  1
+  0.12 0.01 0.03 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 31
+ShadowOptions 7
+
+LoadObject Objects\Glmid.lwo
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  1
+  0.12 0.01 0 0 0 -0.2 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 31
+ShadowOptions 7
+
+LoadObject Objects\Glindex.lwo
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  1
+  0.12 0.01 -0.025 0.2 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 31
+ShadowOptions 7
+
+LoadObject Objects\Grshould.lwo
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  1
+  -0.177 0.212 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 24
+ShadowOptions 7
+
+LoadObject Objects\Grbicep.lwo
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  3
+  -0.055 0 0 0 -29 72.90001 0.835 0.95 0.95
+  0 0 0 0 0
+  -0.055 0 0 0 -11.4 73.80001 0.835 0.95 0.95
+  16 0 0 0 0
+  -0.055 0 0 0 -29 72.90001 0.835 0.95 0.95
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 46
+ParentObject 36
+ShadowOptions 7
+
+LoadObject Objects\Grelbow.lwo
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  3
+  -0.39 0 0 -82.50001 0 -0.8000003 1 1 1
+  0 0 0 0 0
+  -0.39 0 0 -82.50001 0 -0.8000003 1 1 1
+  16 0 0 0 0
+  -0.39 0 0 -82.50001 0 -0.8000003 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+ParentObject 37
+ShadowOptions 7
+
+LoadObject Objects\Grfarm.lwo
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  3
+  0 0 0 -2.7 -15.2 82.5 1 1 1
+  0 0 0 0 0
+  0 0 0 -2.7 -15.2 93.69998 1 1 1
+  16 0 0 0 0
+  0 0 0 -2.7 -15.2 82.5 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 24
+ParentObject 38
+ShadowOptions 7
+
+LoadObject Objects\Grhand.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  2
+  -0.4 -0.01 -0.015 0.1 0 0 1 1 1
+  0 0 0 0 0
+  -0.4 -0.01 -0.015 0 0 0 1 1 1
+  16 0 0 0 0
+EndBehavior 1
+LockedChannels 22
+ParentObject 39
+ShadowOptions 7
+
+LoadObject Objects\Grpink.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  2
+  -0.12 0.01 0.03 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.12 0.01 0.03 0 0 0 1 1 1
+  16 0 0 0 0
+EndBehavior 1
+ParentObject 40
+ShadowOptions 7
+
+LoadObject Objects\Grmid.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  2
+  -0.12 0.01 0 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.12 0.01 0 0 0 0 1 1 1
+  16 0 0 0 0
+EndBehavior 1
+ParentObject 40
+ShadowOptions 7
+
+LoadObject Objects\Grindex.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  2
+  -0.12 0.01 -0.025 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.12 0.01 -0.025 0 0 0 1 1 1
+  16 0 0 0 0
+EndBehavior 1
+ParentObject 40
+ShadowOptions 7
+
+LoadObject Objects\Grthumb.lwo
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  2
+  -0.05 0.005 -0.045 0 0.1 0 1 1 1
+  0 0 0 0 0
+  -0.05 0.005 -0.045 0 0 0 1 1 1
+  16 0 0 0 0
+EndBehavior 1
+ParentObject 40
+ShadowOptions 7
+
+LoadObject Objects\Glthigh.lwo
+ShowObject 8 1
+ObjectMotion (unnamed)
+  9
+  21
+  0 0 0 0 24 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 14 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 -14.5 0 1 1 1
+  11 0 0 0 0
+  0 0 0 0 -25 0 1 1 1
+  16 0 0 0 0
+  0 0 0 0 -10 0 1 1 1
+  20 0 0 0 0
+  0 0 0 0 15 0 1 1 1
+  25 0 0 0 0
+  0 0 0 0 24 0 1 1 1
+  32 0 0 0 0
+  0 0 0 0 14 0 1 1 1
+  38 0 0 0 0
+  0 0 0 0 -14.5 0 1 1 1
+  43 0 0 0 0
+  0 0 0 0 -25 0 1 1 1
+  48 0 0 0 0
+  0 0 0 0 -10 0 1 1 1
+  52 0 0 0 0
+  0 0 0 0 15 0 1 1 1
+  57 0 0 0 0
+  0 0 0 0 24 0 1 1 1
+  64 0 0 0 0
+  0 0 0 0 14 0 1 1 1
+  70 0 0 0 0
+  0 0 0 0 -14.5 0 1 1 1
+  75 0 0 0 0
+  0 0 0 0 -25 0 1 1 1
+  80 0 0 0 0
+  0 0 0 0 31.00379 0 1 1 1
+  95 0 0 0 0
+  0 0 0 0 31.18749 0 1 1 1
+  96 0 0 0 0
+  0 0 0 0 34.8875 0 1 1 1
+  97 0 0 0 0
+  0 0 0 0 62.1 0 1 1 1
+  99 0 0 0 0
+  0 0 0 0 30.8875 0 1 1 1
+  100 0 0 0 0
+EndBehavior 2
+LockedChannels 40
+ParentObject 22
+ShadowOptions 7
+
+LoadObject Objects\Glknee.lwo
+ShowObject 8 1
+ObjectMotion (unnamed)
+  9
+  23
+  0.09 -0.45 -0.02 0 0 0 1 1 1
+  0 0 0 0 0
+  0.09 -0.45 -0.02 0 -8.7 0 1 1 1
+  4 0 0 0 0
+  0.09 -0.45 -0.02 0 -0.00121545 0 1 1 1
+  11 0 0 0 0
+  0.09 -0.45 -0.02 0 0 0 1 1 1
+  16 0 0 0 0
+  0.09 -0.45 -0.02 0 -30 0 1 1 1
+  20 0 0 0 0
+  0.09 -0.45 -0.02 0 -24 0 1 1 1
+  25 0 0 0 0
+  0.09 -0.45 -0.02 0 0 0 1 1 1
+  32 0 0 0 0
+  0.09 -0.45 -0.02 0 -8.7 0 1 1 1
+  36 0 0 0 0
+  0.09 -0.45 -0.02 0 -0.00121545 0 1 1 1
+  43 0 0 0 0
+  0.09 -0.45 -0.02 0 0 0 1 1 1
+  48 0 0 0 0
+  0.09 -0.45 -0.02 0 -30 0 1 1 1
+  52 0 0 0 0
+  0.09 -0.45 -0.02 0 -24 0 1 1 1
+  57 0 0 0 0
+  0.09 -0.45 -0.02 0 0 0 1 1 1
+  64 0 0 0 0
+  0.09 -0.45 -0.02 0 -8.7 0 1 1 1
+  68 0 0 0 0
+  0.09 -0.45 -0.02 0 -0.00121545 0 1 1 1
+  75 0 0 0 0
+  0.09 -0.45 -0.02 0 -25.72391 0 1 1 1
+  92 0 0 0 0
+  0.09 -0.45 -0.02 0 -23.48279 0 1 1 1
+  93 0 0 0 0
+  0.09 -0.45 -0.02 0 -27.08279 0 1 1 1
+  94 0 0 0 0
+  0.09 -0.45 -0.02 0 -35.88279 0 1 1 1
+  95 0 0 0 0
+  0.09 -0.45 -0.02 0 -43.1828 0 1 1 1
+  96 0 0 0 0
+  0.09 -0.45 -0.02 0 -50.28279 0 1 1 1
+  97 0 0 0 0
+  0.09 -0.45 -0.02 0 -55.93745 0 1 1 1
+  99 0 0 0 0
+  0.09 -0.45 -0.02 0 -15.48279 0 1 1 1
+  100 0 0 0 0
+EndBehavior 2
+LockedChannels 43
+ParentObject 45
+ShadowOptions 7
+
+LoadObject Objects\Glshin.lwo
+ShowObject 8 1
+ObjectMotion (unnamed)
+  9
+  17
+  0 -0.01 0.02 0 -2.5 0 1 1 1
+  0 0 0 0 0
+  0 -0.01 0.02 0 -7.41719 0 1 1 1
+  4 0 0 0 0
+  0 -0.01 0.02 0 -3.03889 0 1 1 1
+  11 0 0 0 0
+  0 -0.01 0.02 0 -0.2 0 1 1 1
+  16 0 0 0 0
+  0 -0.01 0.02 0 -10.4938 0 1 1 1
+  20 0 0 0 0
+  0 -0.01 0.02 0 -18.341 0 1 1 1
+  25 0 0 0 0
+  0 -0.01 0.02 0 -2.5 0 1 1 1
+  32 0 0 0 0
+  0 -0.01 0.02 0 -14.46426 0 1 1 1
+  65 0 0 0 0
+  0 -0.01 0.02 0 -20.21878 0 1 1 1
+  66 0 0 0 0
+  0 -0.01 0.02 0 -21.39586 0 1 1 1
+  67 0 0 0 0
+  0 -0.01 0.02 0 -24.49991 0 1 1 1
+  68 0 0 0 0
+  0 -0.01 0.02 0 -25.95065 0 1 1 1
+  69 0 0 0 0
+  0 -0.01 0.02 0 -28.68987 0 1 1 1
+  70 0 0 0 0
+  0 -0.01 0.02 0 -32.61241 0 1 1 1
+  72 0 0 0 0
+  0 -0.01 0.02 0 -12.76873 0 1 1 1
+  75 0 0 0 0
+  0 -0.01 0.02 0 -3.565571 0 1 1 1
+  76 0 0 0 0
+  0 -0.01 0.02 0 -7.251815 0 1 1 1
+  99 0 0 0 0
+EndBehavior 2
+LockedChannels 46
+ParentObject 46
+ShadowOptions 7
+
+LoadObject Objects\Glankle.lwo
+ShowObject 8 1
+ObjectMotion (unnamed)
+  9
+  12
+  -0.005 -0.39 -0.015 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.005 -0.39 -0.015 0 0 0 1 1 1
+  4 0 0 0 0
+  -0.005 -0.39 -0.015 0 -0.0008104448 0 1 1 1
+  11 0 0 0 0
+  -0.005 -0.39 -0.015 0 4 0 1 1 1
+  16 0 0 0 0
+  -0.005 -0.39 -0.015 0 10 0 1 1 1
+  20 0 0 0 0
+  -0.005 -0.39 -0.015 0 8 0 1 1 1
+  25 0 0 0 0
+  -0.005 -0.39 -0.015 0 0 0 1 1 1
+  32 0 0 0 0
+  -0.005 -0.39 -0.015 0 15.36371 0 1 1 1
+  70 0 0 0 0
+  -0.005 -0.39 -0.015 0 12.10001 0 1 1 1
+  71 0 0 0 0
+  -0.005 -0.39 -0.015 0 23.00001 0 1 1 1
+  72 0 0 0 0
+  -0.005 -0.39 -0.015 0 23.90001 0 1 1 1
+  73 0 0 0 0
+  -0.005 -0.39 -0.015 0 26.90001 0 1 1 1
+  74 0 0 0 0
+EndBehavior 2
+LockedChannels 43
+ParentObject 47
+ShadowOptions 7
+
+LoadObject Objects\Glfoot.lwo
+ShowObject 8 3
+ObjectMotion (unnamed)
+  9
+  8
+  0 -0.055 0.025 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.055 0.025 0 2.05 0 1 1 1
+  4 0 0 0 0
+  0 -0.055 0.025 0 4.49135 0 1 1 1
+  11 0 0 0 0
+  0 -0.055 0.025 0 6.2 0 1 1 1
+  16 0 0 0 0
+  0 -0.055 0.025 0 3.7 0 1 1 1
+  20 0 0 0 0
+  0 -0.055 0.025 0 11 0 1 1 1
+  25 0 0 0 0
+  0 -0.055 0.025 0 0 0 1 1 1
+  32 0 0 0 0
+  0 -0.055 0.025 0 13.89611 0 1 1 1
+  99 0 0 0 0
+EndBehavior 2
+LockedChannels 41
+ParentObject 48
+ShadowOptions 7
+
+LoadObject Objects\Gltoes.lwo
+ShowObject 8 3
+ObjectMotion (unnamed)
+  9
+  7
+  0 -0.015 -0.175 0 5.2 -15.2 1 1 1
+  0 0 0 0 0
+  0 -0.015 -0.175 0 0 0 1 1 1
+  4 0 0 0 0
+  0 -0.015 -0.175 0 13.2055 0 1 1 1
+  11 0 0 0 0
+  0 -0.015 -0.175 0 17.6 0 1 1 1
+  16 0 0 0 0
+  0 -0.015 -0.175 0 25.086 0 1 1 1
+  20 0 0 0 0
+  0 -0.015 -0.175 0 10.9969 0 1 1 1
+  25 0 0 0 0
+  0 -0.015 -0.175 0 5.2 0 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 13
+ParentObject 49
+ShadowOptions 7
+
+LoadObject Objects\Grthigh.lwo
+ShowObject 8 5
+ObjectMotion (unnamed)
+  9
+  6
+  0 0 0 0 -25 0 1 1 1
+  0 0 0 0 0
+  0 0 0 0 -10 0 1 1 1
+  4 0 0 0 0
+  0 0 0 0 15 0 1 1 1
+  11 0 0 0 0
+  0 0 0 0 24 0 1 1 1
+  16 0 0 0 0
+  0 0 0 0 14 0 1 1 1
+  21 0 0 0 0
+  0 0 0 0 -25 0 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 8
+ParentObject 22
+ShadowOptions 7
+
+LoadObject Objects\Grknee.lwo
+ShowObject 8 5
+ObjectMotion (unnamed)
+  9
+  7
+  -0.09 -0.45 -0.02 0 0 0 1 1 1
+  0 0 0 0 0
+  -0.09 -0.45 -0.02 0 -30 0 1 1 1
+  4 0 0 0 0
+  -0.09 -0.45 -0.02 0 -24 0 1 1 1
+  11 0 0 0 0
+  -0.09 -0.45 -0.02 0 0 0 1 1 1
+  16 0 0 0 0
+  -0.09 -0.45 -0.02 0 -8.7 0 1 1 1
+  21 0 0 0 0
+  -0.09 -0.45 -0.02 0 0 0 1 1 1
+  32 0 0 0 0
+  -0.09 -0.4475 -0.02 0 -17.65909 0 1 1 1
+  66 0 0 0 0
+EndBehavior 2
+LockedChannels 8
+ParentObject 51
+ShadowOptions 7
+
+LoadObject Objects\Grshin.lwo
+ShowObject 8 5
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.01 0.02 0 0 0 1 1 1
+  0 0 0 0 0
+  0 -0.01 0.02 0 -10.49 0 1 1 1
+  4 0 0 0 0
+  0 -0.01 0.02 0 -18.34 0 1 1 1
+  11 0 0 0 0
+  0 -0.01 0.02 0 -2.4 0 1 1 1
+  16 0 0 0 0
+  0 -0.01 0.02 0 -7.42 0 1 1 1
+  21 0 0 0 0
+  0 -0.01 0.02 0 0 0 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 8
+ParentObject 52
+ShadowOptions 7
+
+LoadObject Objects\Grankle.lwo
+ShowObject 8 5
+ObjectMotion (unnamed)
+  9
+  6
+  0.005 -0.39 -0.015 0 4 0 1 1 1
+  0 0 0 0 0
+  0.005 -0.39 -0.015 0 0 0 1 1 1
+  4 0 0 0 0
+  0.005 -0.39 -0.015 0 8 0 1 1 1
+  11 0 0 0 0
+  0.005 -0.39 -0.015 0 1.60083e-007 0 1 1 1
+  16 0 0 0 0
+  0.005 -0.39 -0.015 0 0 0 1 1 1
+  21 0 0 0 0
+  0.005 -0.39 -0.015 0 4 0 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 8
+ParentObject 53
+ShadowOptions 7
+
+LoadObject Objects\Grfoot.lwo
+ShowObject 8 6
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.055 0.025 0 3 0 1 1 1
+  0 0 0 0 0
+  0 -0.055 0.025 0 0 0 1 1 1
+  4 0 0 0 0
+  0 -0.055 0.025 0 11 0 1 1 1
+  11 0 0 0 0
+  0 -0.055 0.025 0 9.60495e-007 0 1 1 1
+  16 0 0 0 0
+  0 -0.055 0.025 0 2.05 0 1 1 1
+  21 0 0 0 0
+  0 -0.055 0.025 0 3 0 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 8
+ParentObject 54
+ShadowOptions 7
+
+LoadObject Objects\Grtoes.lwo
+ShowObject 8 6
+ObjectMotion (unnamed)
+  9
+  6
+  0 -0.015 -0.175 0 17.2 0 1 1 1
+  0 0 0 0 0
+  0 -0.015 -0.175 0 10.19 0 1 1 1
+  4 0 0 0 0
+  0 -0.015 -0.175 0 11 0 1 1 1
+  11 0 0 0 0
+  0 -0.015 -0.175 0 3 0 1 1 1
+  16 0 0 0 0
+  0 -0.015 -0.175 0 0 0 1 1 1
+  21 0 0 0 0
+  0 -0.015 -0.175 0 17.2 0 1 1 1
+  32 0 0 0 0
+EndBehavior 2
+LockedChannels 8
+ParentObject 55
+ShadowOptions 7
+
+AddNullObject RhandOFFSET
+ShowObject 8 4
+ObjectMotion (unnamed)
+  9
+  2
+  -0.085 -0.015 0 0 0 0 0.384 0.384 0.384
+  0 0 0 0 0
+  -0.085 -0.015 0 0 0 0 0.384 0.384 0.384
+  16 0 0 0 0
+EndBehavior 1
+LockedChannels 4
+ParentObject 40
+ShadowOptions 7
+
+AddNullObject LhandOFFSET
+ShowObject 8 2
+ObjectMotion (unnamed)
+  9
+  1
+  0.085 -0.015 0 0 0 0 0.384 0.384 0.384
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 31
+ShadowOptions 7
+
+AddNullObject LfootOFFSET
+ShowObject 8 1
+ObjectMotion (unnamed)
+  9
+  3
+  0 -0.035 0.04 0 0 0 0.384 0.384 0.384
+  0 0 0 0 0
+  0 -0.035 0.04 0.1 0 1.7 0.384 0.384 0.384
+  16 0 0 0 0
+  0 -0.035 0.04 0.1 0 1.7 0.384 0.384 0.384
+  78 0 0 0 0
+EndBehavior 1
+LockedChannels 51
+ParentObject 49
+ShadowOptions 7
+
+AddNullObject LtoesOFFSET
+ShowObject 8 1
+ObjectMotion (unnamed)
+  9
+  1
+  0 -0.02 0.005 0 0 0 0.384 0.384 0.384
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 1
+ParentObject 50
+ShadowOptions 7
+
+AddNullObject RfootOFFSET
+ShowObject 8 5
+ObjectMotion (unnamed)
+  9
+  3
+  0 -0.035 0.04 0 0 0 0.384 0.384 0.384
+  0 0 0 0 0
+  0 -0.035 0.0425 0 0 0 0.384 0.384 0.384
+  67 0 0 0 0
+  0 -0.0325 0.0475 0 0 0 0.384 0.384 0.384
+  105 0 0 0 0
+EndBehavior 1
+ParentObject 55
+ShadowOptions 7
+
+AddNullObject RtoesOFFSET
+ShowObject 8 5
+ObjectMotion (unnamed)
+  9
+  1
+  0 -0.02 0.005 0 0 0 0.384 0.384 0.384
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 56
+ShadowOptions 7
+
+AddNullObject Null
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.09249999 0 0.155 6.6 0.3 0 1.115999 1.115999 1.115999
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 50
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity 0.000000
+
+AddLight
+LightName LiCorridor ght
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -0.6050662 0.6449999 0.6146837 -65.3 -92.4 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 128
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 0.600000
+ConeAngle 72.110016
+EdgeAngle 5.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0.1 0.09999998 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 30.000000
+ShadowFuzziness 5.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 -0.0425 -0.1 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 30.000000
+ShadowFuzziness 1.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0.2 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 30.000000
+ShadowFuzziness 1.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 -0.2 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 30.000000
+ShadowFuzziness 1.000000
+
+AddLight
+LightName OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0.13 0 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 30.000000
+ShadowFuzziness 1.000000
+
+AddLight
+LightName B OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2325 -0.11 -0.05 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 30.000000
+ShadowFuzziness 1.000000
+
+AddLight
+LightName B OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2325 0 0.05 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 6
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 30.000000
+ShadowFuzziness 1.000000
+
+AddLight
+LightName B OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2325 0.08 -0.15 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 30.000000
+ShadowFuzziness 1.000000
+
+AddLight
+LightName B OutLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2325 -0.055 0.15 50.6 35.30001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 17
+TargetObject 16
+LightColor 128 128 128
+LgtIntensity 0.200000
+LightType 2
+ConeAngle 60.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName Lampadaire
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0 0.135 0.1375 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+ParentObject 11
+LightColor 255 250 183
+LgtIntensity 1.500000
+LightType 1
+LightFalloff 1
+LightRange 0.250000
+LensFlare 1
+FlareIntensity 0.500000
+FlareDissolve 0.000000
+LensFlareFade 0
+LensFlareOptions 33
+ShadowType 0
+
+AddLight
+LightName Green Corridor
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.007500007 0.34 -1.309998 0 42.40001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 45
+ParentObject 6
+LightColor 106 166 89
+LgtIntensity 3.000000
+NoSpecular 1
+LightType 2
+LightFalloff 1
+LightRange 0.750000
+ConeAngle 80.000000
+EdgeAngle 40.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName Point Green Corridor
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.007500007 0.0475 -1.309998 0 4.3 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 45
+ParentObject 6
+LightColor 255 243 102
+LgtIntensity 1.000000
+NoSpecular 1
+LightType 1
+LightFalloff 1
+LightRange 0.450000
+ShadowType 0
+
+AddLight
+LightName Ambiant Arches
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.002499981 1.2 -0.48 34.40002 56.50002 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 2
+LightColor 255 243 179
+LgtIntensity 2.000000
+LightType 2
+LightFalloff 1
+LightRange 2.000000
+ConeAngle 70.000000
+EdgeAngle 50.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 50.000000
+ShadowFuzziness 2.000000
+
+AddLight
+LightName Ambiant Arches Lampe
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.2516218 1.2 -0.4675762 180 49.8 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+ParentObject 6
+LightColor 255 243 179
+LgtIntensity 1.500000
+LightType 2
+LightFalloff 1
+LightRange 1.500000
+ConeAngle 50.000000
+EdgeAngle 45.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 7.000000
+ShadowFuzziness 50.000000
+
+AddLight
+LightName Green Corridor Reverb
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -0.2232108 0.2088377 -0.8705231 -32.60002 3.999998 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+ParentObject 6
+LightColor 106 166 89
+LgtIntensity 1.000000
+LightType 2
+LightFalloff 1
+LightRange 0.750000
+ConeAngle 80.000000
+EdgeAngle 70.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 40.000000
+ShadowFuzziness 5.000000
+
+AddLight
+LightName EgliseLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.672496 0.0775 -0.5327479 -81.8 -20.9 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 45
+LightColor 255 210 128
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 74.290016
+EdgeAngle 5.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName EgliseLight
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.701809 0.05000008 -0.9980735 -70.59999 -22.1 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 37
+LightColor 255 210 128
+LgtIntensity 0.800000
+LightType 2
+ConeAngle 70.040001
+EdgeAngle 5.000000
+LensFlare 1
+FlareIntensity 0.150000
+FlareDissolve 0.000000
+LensFlareFade 4
+LensFlareOptions 545
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 5.000000
+
+AddLight
+LightName EgliseDark
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.701809 3.155 -0.9980735 -63.39999 12.2 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 37
+LightColor 255 210 128
+LgtIntensity -0.500000
+LightType 2
+ConeAngle 70.040001
+EdgeAngle 5.000000
+ShadowType 0
+
+AddLight
+LightName EgliseDark
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.7594 0.1449996 -0.102493 -87.8 -35.2 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+LightColor 255 210 128
+LgtIntensity -0.500000
+LightType 2
+ConeAngle 83.189987
+EdgeAngle 80.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 1
+ShadowFuzziness 1.000000
+
+AddLight
+LightName retrer
+ShowLight 0 7
+LightMotion (unnamed)
+  9
+  1
+  0 0 0 60 30 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 0 0 0
+LgtIntensity 0.000000
+LightType 0
+ShadowType 0
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  2
+  0.7842612 0.3183694 -0.8493814 -76.89999 0 0 1 1 1
+  0 0 0 0 0
+  0.7842612 0.3183694 -0.8493814 -76.89999 0 0 1 1 1
+  2 0 0 0 0
+EndBehavior 1
+LockedChannels 48
+ZoomFactor 0.783000
+Resolution 1
+CustomSize 920 692
+PixelAspectRatio 2
+LimitedRegion 1
+RegionLimits 0.193000 0.887000 0.000000 0.693000
+SegmentMemory 8050000
+Antialiasing 1
+EnhancedAA 1
+AdaptiveSampling 1
+AdaptiveThreshold 32
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 0
+BackdropColor 0 0 0
+ZenithColor 0 65 130
+SkyColor 5 0 0
+GroundColor 0 0 0
+NadirColor 0 0 0
+FogType 2
+FogMinDist 2.500000
+FogMaxDist 4.500000
+FogMinAmount 0.000000
+FogMaxAmount 0.400000
+FogColor 0 43 85
+BackdropFog 0
+DitherIntensity 1
+AnimatedDither 0
+GlowEffect 1
+GlowIntensity 0.500000
+GlowRadius 8.000000
+
+RenderMode 2
+RayTraceEffects 0
+DataOverlayLabel  
+OutputFilenameFormat 1
+SaveRGBImagesPrefix E:\Perso\Praha\bruts\rue.hi.
+RGBImageFormat 2
+
+ViewMode 5
+ViewAimpoint -0.087277 0.092287 -0.969407
+ViewDirection -4.113740 6.044074 0.000000
+ViewZoomFactor 30.375008
+GridNumber 10
+GridSize 0.500000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 1
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0

@@ -1,0 +1,275 @@
+LWSC
+1
+
+FirstFrame 8
+LastFrame 150
+FrameStep 1
+PreviewFirstFrame 0
+PreviewLastFrame 150
+PreviewFrameStep 1
+FramesPerSecond 25.000000
+
+LoadObject E:\Perso\Praha\sol.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 0 0 0 2.232 2.232 2.232
+  0 0 0 0 0
+EndBehavior 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\scarabfini.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0.0625 0 0 0 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 5
+BoneFalloffType 3
+AddBone
+BoneName Bone
+ShowBone 0 7
+BoneActive 1
+BoneRestPosition 0.000000 0.000000 0.000000
+BoneRestDirection 0.000000 3.700000 0.000000
+BoneRestLength 0.492000
+ScaleBoneStrength 0
+BoneStrength 1.000000
+BoneMotion (unnamed)
+  9
+  1
+  0 0 0 0 5.9 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+AddBone
+BoneName Bone
+ShowBone 0 7
+BoneActive 1
+BoneRestPosition 0.000000 0.000000 0.000000
+BoneRestDirection 0.000000 174.599991 0.000000
+BoneRestLength 0.498000
+ScaleBoneStrength 0
+BoneStrength 1.000000
+BoneMotion (unnamed)
+  9
+  1
+  0 0 0 0 172.4001 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 45
+ShadowOptions 7
+
+AddNullObject Ref Obj
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0.007499999 0 0.005 0 0 0 1.144 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 384
+ParentObject 2
+ShadowOptions 7
+
+AddNullObject Ref Obj
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  1
+  0 0 0 36.5 0 0 0.3420001 0.3420001 0.3420001
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\ombre decoupe.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  -1.014682 0.8324997 0.4431961 30.2 -21.7 59.8 0.362 0.362 0.362
+  0 0 1 0 0
+  -1.014682 0.8324997 0.4431961 9.400005 0 59.8 0.362 0.362 0.362
+  150 0 1 0 0
+EndBehavior 1
+LockedChannels 43
+UnseenByCamera 1
+ShadowOptions 7
+
+LoadObject E:\Perso\Praha\ombre decoupe.lwo
+ShowObject 8 7
+ObjectMotion (unnamed)
+  9
+  2
+  -0.2455076 0 1.271564 7.099999 14.8 0 0.812 0.812 0.812
+  0 0 1 0 0
+  -0.2455076 0 1.271564 0 0 0 0.812 0.812 0.812
+  150 0 1 0 0
+EndBehavior 1
+LockedChannels 3
+ParentObject 5
+UnseenByCamera 1
+ShadowOptions 7
+
+AmbientColor 255 255 255
+AmbIntensity (envelope)
+  1
+  2
+  0
+  0 0 1 0 0
+  0.25
+  150 0 1 0 0
+EndBehavior 1
+
+AddLight
+LightName Main Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.020918 0.9025 0.8598198 129 34.3 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LightColor 255 255 255
+LgtIntensity (envelope)
+  1
+  2
+  0
+  0 0 -1 0 0
+  2
+  150 0 1 0 0
+EndBehavior 1
+LightType 2
+ConeAngle (envelope)
+  1
+  2
+  10
+  0 0 -1 0 0
+  85
+  150 0 1 0 0
+EndBehavior 1
+EdgeAngle (envelope)
+  1
+  3
+  10
+  0 0 -1 0 0
+  45
+  80 0 1 1 0
+  5
+  150 0 1 0 0
+EndBehavior 1
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 50.000000
+ShadowFuzziness 5.000000
+
+AddLight
+LightName Back Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  0.654108 -0.1075 -0.3731343 -62.69999 -19.19999 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 40
+LightColor 0 64 128
+LgtIntensity (envelope)
+  1
+  2
+  0
+  0 0 -1 0 0
+  1.2
+  150 0 1 0 0
+EndBehavior 1
+NoSpecular 1
+LightType 0
+ShadowType 0
+
+AddLight
+LightName Back Light
+ShowLight 1 7
+LightMotion (unnamed)
+  9
+  1
+  -1.008581 0.9099998 -0.6870388 54.70001 36.7 0 1 1 1
+  0 0 0 0 0
+EndBehavior 1
+LockedChannels 32
+LightColor 128 128 128
+LgtIntensity (envelope)
+  1
+  2
+  0
+  0 0 1 0 0
+  2
+  150 0 1 0 0
+EndBehavior 1
+NoSpecular 1
+LightType 2
+ConeAngle 82.489990
+EdgeAngle 5.000000
+ShadowType 2
+ShadowMapSize 512
+UseConeAngle 0
+ShadowMapAngle 15.000000
+ShadowFuzziness 5.000000
+
+ShowCamera 1 7
+CameraMotion (unnamed)
+  9
+  2
+  0.2286732 1.078267 -0.8265313 -17.3 53.60001 0 1 1 1
+  0 0 1 0 0
+  0.6307347 1.430767 -1.011899 -31.7 50.8 0 1 1 1
+  150 0 1 0 0
+EndBehavior 2
+ZoomFactor 3.200000
+Resolution 1
+PixelAspectRatio 2
+SegmentMemory 8050000
+Antialiasing 1
+AdaptiveSampling 1
+AdaptiveThreshold 32
+FilmSize 2
+FieldRendering 0
+MotionBlur 0
+DepthOfField 0
+
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 40 80
+SkyColor 120 180 240
+GroundColor 50 40 30
+NadirColor 100 80 60
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+
+RenderMode 2
+RayTraceEffects 0
+DataOverlayLabel  
+SaveAnimationName E:\Perso\Praha\scarab.avi
+AnimationType 1
+EndPlugin
+OutputFilenameFormat 1
+SaveRGBImagesPrefix E:\Perso\Praha\bruts\scar\scar.hi.
+RGBImageFormat 2
+
+ViewMode 5
+ViewAimpoint 0.000000 0.000000 0.000000
+ViewDirection 0.300197 -0.314159 0.000000
+ViewZoomFactor 9.000000
+GridNumber 10
+GridSize 0.500000
+ShowMotionPath 1
+ShowBGImage 0
+ShowFogRadius 0
+ShowRedraw 0
+ShowSafeAreas 0
+ShowFieldChart 0
